@@ -114,6 +114,10 @@ Transfer Learning with MobileNetV2 significantly improved the validation accurac
 - Scikit-learn
 - Google Colab
 
+## Future Improvements
+
+Possible future improvements include data augmentation, hyperparameter tuning and fine-tuning the MobileNetV2 backbone.
+
 ---
 
 ## Repository Structure
